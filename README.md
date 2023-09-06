@@ -1,3 +1,5 @@
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/75db5277-ab61-4b87-b06f-58b65ce53a9c)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
