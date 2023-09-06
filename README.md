@@ -59,6 +59,23 @@ User interface:
 
 ![127 0 0 1_8000_ (2)](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/71c0c4f5-fc83-4029-bc94-956fa3034de2)
 
+![127 0 0 1_8000_collections](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/5b96ffa9-078c-4606-9033-e49324ba9f66)
+
+![127 0 0 1_8000_collections_gaming](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/ad335157-e08f-4b94-8972-3a306f76d377)
+
+![127 0 0 1_8000_collections_gaming_casque](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/51d68fe0-77f4-4386-93db-74599b2185ef)
+
+![127 0 0 1_8000_Cart](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/4bdb96c6-1e99-47d6-a36f-4cdbba586ea5)
+
+![127 0 0 1_8000_checkout](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/c4faea71-a629-4c1a-9571-87ba41c24dc2)
+
+![127 0 0 1_8000_Wishlist](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/8a46237b-7fa1-45ec-a433-36e6cd746b4d)
+
+![127 0 0 1_8000_orders](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/a7253ee5-8206-48e4-b9c1-cd1149391025)
+
+![127 0 0 1_8000_orders_12](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/22987ae2-5b4e-4c42-a2f1-5de963c963c6)
+
+
 
 
 
