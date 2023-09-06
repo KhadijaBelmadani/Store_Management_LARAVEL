@@ -42,7 +42,7 @@ Admin interface:
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/dc4a6286-101f-480f-907c-a9f47b107130)
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/a464182d-5c18-4f7d-b448-ac53ef941678)
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/2c272bdf-fa6e-4edd-bce4-71c32cdf030c)
-![127 0 0 1_8000_ (3)](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/06891f98-debf-43df-9b5f-086bc4f9f031)
+
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/beceaeed-a577-4568-a9b3-ec8669c1679e)
 
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/e326fd64-7007-44bc-8aac-8dcb85a087c9)
