@@ -1,4 +1,4 @@
-Store management with LARAVEL
+
 Admin interface:
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/75db5277-ab61-4b87-b06f-58b65ce53a9c)
 
