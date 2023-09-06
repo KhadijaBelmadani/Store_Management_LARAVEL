@@ -1,68 +1,56 @@
+Admin interface:
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/75db5277-ab61-4b87-b06f-58b65ce53a9c)
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/90bd439e-1197-4597-bc2f-1829cda246ae)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/b353ff37-0c22-4eb8-a562-5de18fcdbb96)
 
-## About Laravel
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/0a138923-c34b-4041-8ab5-c37f246f3846)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/47207ac4-7821-4ca9-985f-cfbfcb126b9e)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/6f1778db-09a8-408b-ac9d-7fd8b1ab021b)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/9aa19777-81d3-42b1-a579-fc9b86c8cac3)
 
-## Learning Laravel
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/32f18c79-0305-440d-9883-d6cc88413dad)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/923ca68d-0945-4308-a797-c41ca0767bc5)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/f2b88070-f493-446a-9a90-180d1b8200f2)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/43519459-af25-48a8-b12a-8b6a39a10bd5)
 
-## Laravel Sponsors
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/1a7148b0-a495-4279-a6c3-c120efd37f10)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/617074df-7812-4ab7-81df-c94fe22efc18)
 
-### Premium Partners
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/df24c8c7-3be2-40c1-ac61-e5a45319d1c9)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/b25d7243-80db-46a2-aaa6-9eb7f7f9235e)
 
-## Contributing
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/16fc14eb-eac2-44e5-a06c-924c5a6c4e54)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/b59eda99-18c9-443e-858f-6b69479576b5)
 
-## Code of Conduct
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/a1bcc7f1-0aaf-4022-81c6-c72145ab41b1)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/984165c1-d37e-4e27-aac2-819542699e67)
 
-## Security Vulnerabilities
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/1a8df9e2-2227-4679-b92a-bbf1e0268546)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/2691c956-4676-4c76-b665-c6389bcb2548)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/dc4a6286-101f-480f-907c-a9f47b107130)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/a464182d-5c18-4f7d-b448-ac53ef941678)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/2c272bdf-fa6e-4edd-bce4-71c32cdf030c)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/fabf4703-fe28-45fb-9091-7e80d19d9c8f)
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/beceaeed-a577-4568-a9b3-ec8669c1679e)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/e326fd64-7007-44bc-8aac-8dcb85a087c9)
 
-## License
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/0522c492-8a01-4c9f-aa9b-7f6c4a87afc1)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/a78fea2f-09b5-49ec-9c5a-17cddf0231fa)
+
+
+
+
