@@ -57,7 +57,7 @@ User interface:
 
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/8f5e0a64-4dfc-4673-9d53-f0c7ef83f435)
 
-![127 0 0 1_8000_ (2)](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/71c0c4f5-fc83-4029-bc94-956fa3034de2)
+![127 0 0 1_8000_ (3)](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/3caa2154-ce64-4044-b9b7-e09b995f0b8f)
 
 ![127 0 0 1_8000_collections](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/5b96ffa9-078c-4606-9033-e49324ba9f66)
 
