@@ -1,3 +1,19 @@
+## Installation
+
+1.  Clone the repository
+2.  Run `composer install`
+3.  Run `npm install`
+4.  Run `npm run dev`
+5.  Create a database and update the `.env` file
+6.  Run `php artisan migrate --seed`
+7.  Run `php artisan serve`
+8.  Login with the following credentials
+    -   Email: `admin@gmail.com`
+    -   Password: `password`
+9.  Enjoy!
+
+
+
 # Store_Management_With_LARAVEL
 Admin interface:
 ![image](https://github.com/KhadijaBelmadani/Store_Management_LARAVEL/assets/122830181/75db5277-ab61-4b87-b06f-58b65ce53a9c)
